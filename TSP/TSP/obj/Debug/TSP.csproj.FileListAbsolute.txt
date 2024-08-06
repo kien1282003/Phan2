@@ -1,0 +1,7 @@
+C:\PTTKTT_BTL\Phan 2\TSP\TSP\bin\Debug\TSP.exe.config
+C:\PTTKTT_BTL\Phan 2\TSP\TSP\bin\Debug\TSP.exe
+C:\PTTKTT_BTL\Phan 2\TSP\TSP\bin\Debug\TSP.pdb
+C:\PTTKTT_BTL\Phan 2\TSP\TSP\obj\Debug\TSP.csproj.AssemblyReference.cache
+C:\PTTKTT_BTL\Phan 2\TSP\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\PTTKTT_BTL\Phan 2\TSP\TSP\obj\Debug\TSP.exe
+C:\PTTKTT_BTL\Phan 2\TSP\TSP\obj\Debug\TSP.pdb
