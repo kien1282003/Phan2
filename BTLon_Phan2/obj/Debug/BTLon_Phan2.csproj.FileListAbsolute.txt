@@ -1,0 +1,7 @@
+D:\FILE SV\PTTKTT\BTLon_Phan2\BTLon_Phan2\bin\Debug\BTLon_Phan2.exe.config
+D:\FILE SV\PTTKTT\BTLon_Phan2\BTLon_Phan2\bin\Debug\BTLon_Phan2.exe
+D:\FILE SV\PTTKTT\BTLon_Phan2\BTLon_Phan2\bin\Debug\BTLon_Phan2.pdb
+D:\FILE SV\PTTKTT\BTLon_Phan2\BTLon_Phan2\obj\Debug\BTLon_Phan2.csproj.AssemblyReference.cache
+D:\FILE SV\PTTKTT\BTLon_Phan2\BTLon_Phan2\obj\Debug\BTLon_Phan2.csproj.CoreCompileInputs.cache
+D:\FILE SV\PTTKTT\BTLon_Phan2\BTLon_Phan2\obj\Debug\BTLon_Phan2.exe
+D:\FILE SV\PTTKTT\BTLon_Phan2\BTLon_Phan2\obj\Debug\BTLon_Phan2.pdb
